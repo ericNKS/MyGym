@@ -1,0 +1,2 @@
+Nesse aplicativo Você sera capaz de criar sua conta de forma segura por causa do auth do laravel, poderar decidir qual plano de academia
+você deseja ter e pagar eles via Boleto, Cartão de credito e Pix. Além disso na área do seu perfil você poderar cancelar o seu plano.
